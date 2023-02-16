@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kprth
+ *
+ */
+module GitPracticeProject {
+}
